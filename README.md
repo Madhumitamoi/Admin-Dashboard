@@ -8,4 +8,4 @@ Tool and Technologies- HTML, CSS, React JS
 
 ## Homepage
 It opens upto a E-commerce pages, which displays 
-![alt text](https://github.com/Madhumitamoi/Admin-Dashboard/blob/main/screenshots/Screenshot%20(12).png)
+![alt text](https://github.com/Madhumitamoi/Admin-Dashboard/blob/main/screenshots/Screenshot%20(13).png)
