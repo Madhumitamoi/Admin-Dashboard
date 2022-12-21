@@ -7,4 +7,5 @@ Youcan directly access the hosted application on Netlify-   [Admin-Dashboard App
 Tool and Technologies- HTML, CSS, React JS
 
 ## Homepage
-It opens upto a E-commerce pages, which displays
+It opens upto a E-commerce pages, which displays 
+![alt text](https://github.com/Madhumitamoi/Admin-Dashboard/blob/main/screenshots/Screenshot%20(12).png)
