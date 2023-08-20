@@ -1,8 +1,8 @@
 # Admin-Dashboard
 
-This Admin Dashboard is a basically getting everything under one roof, I have created three pages, four Apps and seven fully functional Charts.
+This Admin Dashboard is basically getting everything under one roof, I have created three pages - Order, Employees, Customer, four Apps- Calender, Kanban, Writing Notepad, Colour Picker, and seven fully functional Charts.
 
-Youcan directly access the hosted application on Netlify-   [Admin-Dashboard App](https://dashboardmanage.netlify.app/)
+You can directly access the hosted application on Netlify-   [Admin-Dashboard App](https://dashboardmanage.netlify.app/)
 
 Tool and Technologies- HTML, CSS, React JS
 
